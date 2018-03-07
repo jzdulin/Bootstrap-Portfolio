@@ -1,6 +1,13 @@
-
-img{
+.portfolio{
     width: 100%;
     margin-bottom: 10px;
     max-width:100%;
+    height:205px;
+}
+
+.other{
+    width: 100%;
+    margin-bottom: 10px;
+    max-width:100%;
+    height: 65px;
 }
